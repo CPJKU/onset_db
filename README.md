@@ -24,3 +24,8 @@ Data sources
    Because of copyright reasons, only my annotations are included. The audio
    files and original annotations should be obtained from the author.
 
+*  `ah_*` taken from the data set introduced by Andre Holzapfel in:
+   Three dimensions of pitched instrument onset detection.
+   A. Holzapfel, Y. Stylianou, A.C. Gedik, and B. Bozkurt
+   IEEE Transactions on Audio, Speech, and Language Processing, 18(6), 2010
+
