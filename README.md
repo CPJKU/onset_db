@@ -19,10 +19,8 @@ Data sources
 
 *  `jpb_*` taken from the data set introduced by Juan Pablo Bello in:
    A tutorial on onset detection in music signals.
-   J. Bello, L. Daudet, S. Abdallah, C. Duxbury, M. Davies, and M. Sandler
+   J. Bello, L. Daudet, S. Abdallah, C. Duxbury, M. Davies, and M. Sandler.
    IEEE Transactions on Speech and Audio Processing, 13(5), 2005
-   Because of copyright reasons, only my annotations are included. The audio
-   files and original annotations should be obtained from the author.
 
 *  `ah_*` taken from the data set introduced by Andre Holzapfel in:
    Three dimensions of pitched instrument onset detection.
@@ -32,7 +30,7 @@ Data sources
 *  `jg_*`taken from the data set introduced by John Glover in:
    Real-time Detection of Musical Onsets with Linear Prediction and Sinusoidal
    Modelling.
-   J. Glover, V. Lazzarini, and J. Timoney
-   EURASIP Journal on Advances in Signal Processing, 2011
+   J. Glover, V. Lazzarini, and J. Timoney.
+   EURASIP Journal on Advances in Signal Processing, 2011.
    The set can be dowloaded from:
    <https://github.com/downloads/johnglover/modal/onsets-1.0.tar.gz>
