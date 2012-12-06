@@ -11,11 +11,26 @@ modified onsets.
 
 Data sources
 ------------
-*  `Albums*` and `Media*` taken from the ISMIR 2004 ballroom data set located
-   at: <http://mtg.upf.edu/ismir2004/contest/tempoContest/node5.html> with some
-   original annotations done by Alexandre Lacoste (original source:
-   <http://w3.ift.ulaval.ca/~allac88/dataset.tar.gz>). The complete collection can
-   be found at: <http://mir.minimoog.org/sb-mir-db.zip>
+*  `sb_*` taken from the data set introduced by Sebastian Böck in:
+   Universal Onset Detection with Bidirectional Long Short-Term Memory Neural
+   Networks.
+   F. Eyben, S. Böck, B. Schuller, and A. Graves.
+   Proceedings of the 11th International Society for Music Information Retrieval
+   Conference (ISMIR), 2010.
+   It can be downloaded from: <http://mir.minimoog.org/sb-mir-db.zip>.
+   The audio files are taken from the ISMIR 2004 ballroom data set located
+   at: <http://mtg.upf.edu/ismir2004/contest/tempoContest/node5.html>.
+   This set also includes the original and modified annotations for the `al_*`
+   files.
+
+*  `al_*` taken from the data set introduced by Alexandre Lacoste in:
+   A supervised classification algorithm for note onset detection.
+   A. Lacoste, and D. Eck.
+   EURASIP Journal on Applied Signal Processing, 1, 2007.
+   It can be downloaded from:
+   <http://w3.ift.ulaval.ca/~allac88/dataset.tar.gz>.
+   The audio files are taken from the ISMIR 2004 ballroom data set located
+   at: <http://mtg.upf.edu/ismir2004/contest/tempoContest/node5.html>.
 
 *  `ah_*` taken from the data set introduced by Andre Holzapfel in:
    Three dimensions of pitched instrument onset detection.
