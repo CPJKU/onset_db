@@ -17,11 +17,7 @@ Data sources
    F. Eyben, S. Böck, B. Schuller, and A. Graves.
    Proceedings of the 11th International Society for Music Information Retrieval
    Conference (ISMIR), 2010.
-   It can be downloaded from: <http://mir.minimoog.org/sb-mir-db.zip>.
-   The audio files are taken from the ISMIR 2004 ballroom data set located
-   at: <http://mtg.upf.edu/ismir2004/contest/tempoContest/node5.html>.
-   This set also includes the original and modified annotations for the `al_*`
-   files.
+   Please contact me to get access to this data.
 
 *  `al_*` taken from the data set introduced by Alexandre Lacoste in:
    A supervised classification algorithm for note onset detection.
